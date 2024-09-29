@@ -2,7 +2,7 @@ Instruções do Projeto
 
 1 - clone o projeto;
 
-- abra seu terminal e de o comando git clone git@github.com:CarlosEduardo1807/lions-page.git
+- abra seu terminal e de o comando "git clone git@github.com:CarlosEduardo1807/lions-page.git"
 
 2 - selecione a arquivo clonado e abra em uma ide de sua preferencia;
 
@@ -18,7 +18,7 @@ Instruções do Projeto
 
 8 - visualise o projeto
 
-                                                  Fim
+<!-- Fim -->
 
 Informações do Projeto:
 
