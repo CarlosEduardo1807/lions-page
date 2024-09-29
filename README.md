@@ -1,37 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Instruções do Projeto
 
-## Getting Started
+1 - clone o projeto;
 
-First, run the development server:
+- abra seu terminal e de o comando git clone git@github.com:CarlosEduardo1807/lions-page.git
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+2 - selecione a arquivo clonado e abra em uma ide de sua preferencia;
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+3 - abra o terminal da ide selecionada;
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+4 - no terminal digite o comando "npm install" ou "npm i", para baixar as dependencias necessarias para o projeto executar;
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+5 - em seguida digite o comando "npm run dev", ele ira iniciar o projeto;
 
-## Learn More
+6 - no terminal copie a porta que foi aberta o projeto ex: "http://localhost:3000/";
 
-To learn more about Next.js, take a look at the following resources:
+7 - abra um navegador de sua preferencia e cole na aba de navegação
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+8 - visualise o projeto
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+                                                  Fim
 
-## Deploy on Vercel
+Informações do Projeto:
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+. Desenvolvido com Next.js, usando a linguagem TypeScript e a biblioteca de componentes PrimeReact;
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# lions-page
+. O projeto está organizado em componentes sendo renderizados no arquivo principal do projeto(page.tsx)
+
+. cada componente tem um arquivo tsx que armazena a logica e o html e um arquivo molule.css para armazenar a estilização do componente;
+
+Desenvolvidor: Carlos Eduardo
+GitHub: "https://github.com/CarlosEduardo1807"

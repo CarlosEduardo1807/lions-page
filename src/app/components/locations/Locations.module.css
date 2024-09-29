@@ -1,0 +1,32 @@
+.container_locations {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr ;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    border-color:  #a41b1e;
+    border-style: solid;
+    border-width: 1px;
+    margin: 10px;
+    padding: 10px;
+
+    @media (max-width: 790px) {
+        display: flex;
+       flex-direction: column;
+        gap: 15px;
+        
+    }
+}
+
+.container_locations_item {
+    /* margin: 10px; */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+
+.title {
+    font-size: 30px;
+    text-align: center;
+    font-family: monospace;
+}

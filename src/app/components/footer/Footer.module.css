@@ -1,0 +1,23 @@
+.footer {
+    background-color: #a41b1e;
+    height: 150px;
+}
+
+.container_logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    flex-direction: column;
+}
+
+.logo {
+    object-fit: cover;
+    align-self: center;
+}
+/* 
+.divider{
+   height: 40px;
+    width: 100%;
+    background-color: #f3db07;
+} */
